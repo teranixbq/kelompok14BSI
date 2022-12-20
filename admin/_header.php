@@ -7,7 +7,7 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initialscale=1.0">
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
-	<title>CRUD Native</title>
+	<title>Bangkitkan Semangat Indonesia</title>
 	<!-- Bootstrap 4 -->
 	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstra
 p.min.css" integrity="sha384-
